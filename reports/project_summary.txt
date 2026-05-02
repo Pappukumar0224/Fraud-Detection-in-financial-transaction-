@@ -1,0 +1,16 @@
+Project Name: Credit Card Fraud Detection using Machine Learning
+
+Tools Used:
+Python, Pandas, Scikit-learn, Power BI, SQL
+
+Model Used:
+Random Forest with SMOTE
+
+Results:
+Accuracy: 98%
+Fraud Recall Improved
+
+Insights:
+- Foreign transactions higher fraud risk
+- Grocery/Food categories show more fraud
+- Peak fraud occurs in specific hours
